@@ -1,0 +1,216 @@
+* {
+    background-color: rgb(35, 35, 35);
+    align-items: center;
+} 
+
+.first_menu {
+    border-radius: 50%;
+    display: block;
+    width: 100px;
+    height: 100px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+
+.cizgi1 {
+    border-bottom: 1px solid rgb(255, 255, 255);
+    margin-top: 5px;
+    width: 20px;
+    margin-left: 7px;
+}
+.cizgi2 {
+    border-bottom: 1px solid rgb(255, 255, 255);
+    margin-top: 5px;
+    width: 20px;
+    margin-left: 7px;
+}
+.cizgi3 {
+    border-bottom: 1px solid rgb(255, 255, 255);
+    margin-top: 5px;
+    width: 20px;
+    margin-left: 7px;
+}
+
+
+.logo {
+    margin-left: 60px;
+    margin-top: -113px;
+    display: flex;
+}
+
+.img_logo {
+    width: 125px;
+    height: 40px;
+}
+
+.alt_menu {
+    display: block;
+    width: 200px;
+    height: 350px;
+    margin-left: 15px;
+}
+.anasayfa_menu {
+    padding-bottom: -15px;
+    display: flex;
+    margin-top: 20px;
+}
+.shorts_menu {
+    display: flex;
+    margin-top: 20px;
+}
+.abonelikler_menu {
+    display: flex;
+    margin-top: 20px;
+}
+.ytmusic_menu {
+    display: flex;
+    margin-top: 20px;
+}
+.menu_img {
+    display: flex;
+    width: 30px;
+    height: 30px;
+}
+p {
+    margin-left: 30px;
+    margin-top: -25px;
+    color: white;
+}
+
+
+.search_box {
+    margin-left: 400px;
+    margin-right: 458px;
+    display: inline ;
+}
+input {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 17px;
+    display: block;
+    width: 544px;
+    height: 40px;
+    margin-left: 400px;
+    margin-top: -435px;
+    margin-bottom: 100px;
+    border: none;
+    color: white;
+    background-color: rgb(70, 70, 70);
+    border-radius: 30px 0 0 30px;
+}
+.image_search {
+    padding-top: 5px;
+    padding-left: 13px;
+    padding-right: 7px;
+    margin-left: 949px;
+    margin-top: -512px;
+    margin-bottom: -270px;
+    display: flex;
+    width: 37px;
+    height: 37px;
+    background-color: white;
+    border-radius: 0 30px 30px 0;
+}
+.search_div {
+    display: flex;
+}
+
+
+input:focus {
+    border-radius: 0 0 0 0;
+}
+
+.reklam_area {
+    width: 500px;
+    height: 300px; 
+}
+.reklam_img {
+    width: 900px;
+    height: 500px;
+    margin-top: -300px;
+    margin-left: 300px;
+    border: 1px solid aqua;
+}
+
+.reklam_img:hover {
+    opacity: 0.8;
+    border-radius: 0 0 0 0;
+}
+
+hr {
+    width: 1150px;
+    display: flex;
+    margin-left: 250px;
+}
+
+.img_area1 {
+    display: flex;
+}
+
+img {
+    border-radius: 5%;
+    width: 350px;
+    height: 200px;
+}
+
+.img1 {
+    margin-left: 255px;
+    margin-top: 100px;
+}
+.img2 {
+    margin-left: 60px;
+    margin-top: 80px;
+}
+.img3 {
+    margin-left: 60px;
+    margin-top: 100px;
+}
+ 
+.img_alt1 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    font-size: 20px;
+    margin-top: 10px;
+    text-align: left;
+    margin-left: 260px;
+}
+.img_alt2 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 65px;
+}
+.img_alt3 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 65px;
+}
+
+.img1:hover {
+    opacity: 0.8;
+    border-radius: 0%;
+    transition: 0.3s ease-in-out;
+}
+.img2:hover {
+    opacity: 0.8;
+    border-radius: 0%;
+    transition: 0.3s ease-in-out;
+}
+.img3:hover {
+    opacity: 0.8;
+    border-radius: 0%;
+    transition: 0.3s ease-in-out;
+}
+
+a {
+    font-size: 15px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-decoration: none;
+}
+
+h5 {
+    color: white;
+}
